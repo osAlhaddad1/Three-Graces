@@ -170,7 +170,7 @@ nav.header .a:hover ~ .cursor {
 	-webkit-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-	z-index: 2 !important; /* TODO Solve this in HTML */
+	z-index: 2 !important;
 }
 
 #canvas-container{
